@@ -26,10 +26,9 @@ Currently diving into **cloud integration** and **Python projects**, while also 
 
 ---
 
-## 🎯 Goals for 2025  
-- Sharpen **cloud-native development** with AWS  
-- Build small but meaningful automation tools  
-- Grow *The Shutter Nomad* photography journey  
+## 🎯 Goals for 2026
+
+ SICUT VIVERE
 
 ---
 
